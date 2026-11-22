@@ -1,2 +1,12 @@
-# Hustlelive-
-Hustle Live - Nairobi's First INSTANT Hustle App. Get a Cleaner, Mama Fua, Mover, Fundi, Boda in 5 mins in your estate. Pay after photo proof. No scam.
+# HUSTLE LIVE
+Nairobi's First INSTANT Hustle App
+
+Normal apps: Post job, wait 2 days.
+Hustle Live: Press ONE button, get someone ONLINE NOW in your estate.
+
+- HUSTLE NOW button - Like Bolt for hustles
+- Pay AFTER photo proof - No scam
+- Hustle Passport - Stars, Jobs Done, Estate
+
+Live App: https://hustlelive.vercel.app
+WhatsApp: 0741 958 984
